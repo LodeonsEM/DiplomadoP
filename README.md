@@ -1,4 +1,4 @@
-# Estrategia de Ramas (Desarrollo basado en troncos).
+# Estrategia de Ramas (Desarrollo basado en troncos)
 
 Para gestionar el código del proyecto, seguimos una estrategia "Desarrollo basado en troncos", optimizada para equipos pequeño. Esto permite una integración continua con menos fricción.
 
