@@ -18,3 +18,4 @@ Para gestionar el código del proyecto, seguimos una estrategia "Desarrollo basa
 - Se fusionan los cambios en main rápidamente.
 - Se eliminan las ramas temporales para mantener el repositorio limpio.
 - Se usa CI/CD para pruebas y despliegues rápidos.
+
