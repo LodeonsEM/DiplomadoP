@@ -19,3 +19,4 @@ Para gestionar el código del proyecto, seguimos una estrategia "Desarrollo basa
 - Se eliminan las ramas temporales para mantener el repositorio limpio.
 - Se usa CI/CD para pruebas y despliegues rápidos.
 
+> Verificacion de mi CI/CD desde mi repositorio LodeonsEM/Productos
